@@ -1,0 +1,113 @@
+{{/* ========================================================
+   SEO COMPLETO: OG + Twitter + Schema.org + Canonical
+======================================================== */}}
+
+{{ $title    := .Title | default site.Title }}
+{{ $desc     := .Description | default site.Params.description }}
+{{ $url      := .Permalink | default site.BaseURL }}
+{{ $siteName := site.Title }}
+{{ $baseURL  := site.BaseURL }}
+{{ $image    := printf "%simages/og-default.png" $baseURL }}
+{{ if .Params.cover.image }}{{ $image = .Params.cover.image | absURL }}{{ end }}
+
+{{/* ── Canonical ── */}}
+<link rel="canonical" href="{{ $url }}" />
+
+{{/* ── Meta descripción y keywords ── */}}
+{{ with $desc }}<meta name="description" content="{{ . }}" />{{ end }}
+{{ with site.Params.keywords }}<meta name="keywords" content="{{ delimit . ", " }}" />{{ end }}
+<meta name="author" content="{{ site.Params.author | default $siteName }}" />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="googlebot" content="index, follow" />
+
+{{/* ── Open Graph ── */}}
+<meta property="og:site_name"   content="{{ $siteName }}" />
+<meta property="og:locale"      content="es_ES" />
+<meta property="og:title"       content="{{ $title }}" />
+<meta property="og:description" content="{{ $desc }}" />
+<meta property="og:url"         content="{{ $url }}" />
+<meta property="og:image"       content="{{ $image }}" />
+<meta property="og:image:width"  content="1200" />
+<meta property="og:image:height" content="630" />
+{{ if .IsPage }}
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" />
+<meta property="article:modified_time"  content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" />
+<meta property="article:author"         content="{{ $siteName }}" />
+{{ with .Params.categories }}<meta property="article:section" content="{{ index . 0 }}" />{{ end }}
+{{ range .Params.tags }}<meta property="article:tag" content="{{ . }}" />{{ end }}
+{{ else }}
+<meta property="og:type" content="website" />
+{{ end }}
+
+{{/* ── Twitter / X Card ── */}}
+<meta name="twitter:card"        content="summary_large_image" />
+<meta name="twitter:title"       content="{{ $title }}" />
+<meta name="twitter:description" content="{{ $desc }}" />
+<meta name="twitter:image"       content="{{ $image }}" />
+
+{{/* ── RSS ── */}}
+<link rel="alternate" type="application/rss+xml" title="{{ $siteName }}" href="{{ "/index.xml" | absURL }}" />
+
+{{/* ── Schema.org JSON-LD ── */}}
+{{ if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline":       {{ $title | jsonify }},
+  "description":    {{ $desc  | jsonify }},
+  "image":          {{ $image | jsonify }},
+  "datePublished":  "{{ .Date.Format "2006-01-02" }}",
+  "dateModified":   "{{ .Lastmod.Format "2006-01-02" }}",
+  "inLanguage":     "es",
+  "author": { "@type": "Organization", "name": {{ $siteName | jsonify }} },
+  "publisher": {
+    "@type": "Organization",
+    "name":  {{ $siteName | jsonify }},
+    "logo":  { "@type": "ImageObject", "url": {{ printf "%simages/logo.png" $baseURL | jsonify }} }
+  },
+  "mainEntityOfPage": { "@type": "WebPage", "@id": {{ $url | jsonify }} }
+}
+</script>
+
+{{/* Breadcrumb JSON-LD para artículos */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Inicio",    "item": {{ $baseURL | jsonify }} },
+    { "@type": "ListItem", "position": 2, "name": "Artículos", "item": {{ printf "%sposts/" $baseURL | jsonify }} },
+    { "@type": "ListItem", "position": 3, "name": {{ $title | jsonify }}, "item": {{ $url | jsonify }} }
+  ]
+}
+</script>
+
+{{ else if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name":        {{ $siteName | jsonify }},
+  "description": {{ $desc     | jsonify }},
+  "url":         {{ $baseURL  | jsonify }},
+  "inLanguage":  "es",
+  "potentialAction": {
+    "@type":       "SearchAction",
+    "target":      {{ printf "%ssearch/?q={search_term_string}" $baseURL | jsonify }},
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+{{ else if eq .Kind "taxonomy" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name":  {{ $title  | jsonify }},
+  "url":   {{ $url    | jsonify }}
+}
+</script>
+{{ end }}

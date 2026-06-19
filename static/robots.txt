@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tecno-rapido.netlify.app/sitemap.xml
