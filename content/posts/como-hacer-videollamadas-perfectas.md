@@ -1,10 +1,14 @@
----
+﻿---
 title: "Cómo hacer videollamadas perfectas: guía para Zoom, Teams y Meet"
 date: 2026-06-17
 draft: false
 description: "Consejos prácticos para mejorar la calidad de tus videollamadas en Zoom, Google Meet y Microsoft Teams. Audio, vídeo, iluminación y configuración."
 categories: ["Software"]
 tags: ["zoom", "teams", "google meet", "videollamadas", "trabajo remoto", "videoconferencia"]
+cover:
+    image: "images/posts/header-videollamadas-perfectas.png"
+    alt: "Cómo hacer videollamadas perfectas: guía para Zoom, Teams y Meet"
+    relative: false
 ---
 
 El trabajo remoto convirtió las videollamadas en parte del día a día de millones de personas. Sin embargo, la mayoría nunca optimiza su configuración y sufre problemas de audio, vídeo o conexión que son fáciles de resolver.
@@ -14,6 +18,8 @@ El trabajo remoto convirtió las videollamadas en parte del día a día de millo
 El audio es más crítico que el vídeo. Puedes tolerar una imagen pixelada pero no un audio cortado o con eco.
 
 ### Mejora el audio sin gastar dinero
+
+![Videollamada con auriculares en el escritorio](/images/posts/videollamada-auriculares-escritorio.png)
 
 **Usa auriculares en vez de los altavoces del PC**
 Los altavoces crean eco porque el micrófono del PC capta el sonido que salen de ellos. Con auriculares o cascos, eliminas el eco completamente.

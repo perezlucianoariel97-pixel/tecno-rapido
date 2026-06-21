@@ -1,11 +1,17 @@
----
+﻿---
 title: "Los mejores juegos gratis para PC en 2026 que valen la pena"
 date: 2026-06-17
 draft: false
 description: "Los mejores juegos gratuitos para PC en 2026: desde shooters competitivos hasta RPGs. Sin pagar nada y sin necesitar un PC potente."
 categories: ["Software"]
 tags: ["juegos gratis", "pc gaming", "free to play", "steam", "gaming"]
+cover:
+    image: "images/posts/header-juegos-gratis-pc.png"
+    alt: "Los mejores juegos gratis para PC en 2026 que valen la pena"
+    relative: false
 ---
+
+![Biblioteca de juegos gratuitos para PC](/images/posts/biblioteca-juegos-pc.png)
 
 El modelo free-to-play ha madurado mucho. En 2026 hay juegos gratuitos que compiten de tú a tú con títulos de 60€. Esta es la lista de los que realmente valen tu tiempo.
 

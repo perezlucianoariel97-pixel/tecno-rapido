@@ -1,10 +1,14 @@
----
+﻿---
 title: "Impresoras: cómo elegir la correcta y ahorrar en tinta (guía 2026)"
 date: 2026-06-24T00:00:00+00:00
 description: "Tinta vs láser, sistemas EcoTank y cómo calcular el coste real por página. Todo lo que necesitas saber antes de comprar una impresora en 2026."
 tags: ["Impresoras", "EcoTank", "Compras", "Hogar", "Oficina"]
 categories: ["posts"]
 author: "Tecno Rápido"
+cover:
+    image: "images/posts/header-impresoras-tinta.png"
+    alt: "Impresoras: cómo elegir la correcta y ahorrar en tinta (guía 2026)"
+    relative: false
 ---
 
 Comprar una impresora barata y después descubrir que los cartuchos de repuesto cuestan casi lo mismo que el equipo es uno de los engaños más comunes en tecnología de consumo. La impresora en sí es lo de menos — lo que realmente determina cuánto vas a gastar es el **coste por página**, y eso depende casi exclusivamente del sistema de tinta o tóner que elijas.
@@ -27,6 +31,8 @@ Las impresoras de inyección de tinta tradicionales (con cartuchos pequeños) su
 **Cómo evitarlo:** calcula siempre el costo por página, no solo el precio del equipo. La mayoría de fabricantes publican esta cifra, y es la única comparación que realmente importa para tu bolsillo a largo plazo.
 
 ## Sistemas de tanque (EcoTank / MegaTank): la opción que domina 2026
+
+![Comparativa entre cartuchos y tanque de tinta](/images/posts/comparativa-cartuchos-tanquetinta.png)
 
 Epson (EcoTank) y Canon (MegaTank) popularizaron un sistema que reemplaza los cartuchos pequeños por tanques de tinta recargables con botellas grandes. El ahorro es significativo:
 

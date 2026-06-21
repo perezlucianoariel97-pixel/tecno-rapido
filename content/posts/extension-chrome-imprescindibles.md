@@ -1,11 +1,17 @@
----
+﻿---
 title: "12 extensiones de Chrome que deberías instalar ahora mismo"
 date: 2026-06-04
 draft: false
 description: "Las extensiones de Chrome más útiles para bloquear anuncios, aumentar la productividad y navegar más seguro. Todas gratuitas."
 categories: ["Navegadores"]
 tags: ["chrome", "extensiones", "navegador", "productividad", "seguridad"]
+cover:
+    image: "images/posts/header-extensiones-chrome.png"
+    alt: "12 extensiones de Chrome que deberías instalar ahora mismo"
+    relative: false
 ---
+
+![Menú de extensiones del navegador Chrome](/images/posts/menu-extensiones-navegador.png)
 
 Las extensiones correctas pueden transformar Chrome en una herramienta mucho más poderosa. Aquí las 12 que usamos a diario y no podríamos eliminar.
 

@@ -1,10 +1,14 @@
----
+﻿---
 title: "Cómo organizar y limpiar tu Gmail de una vez por todas (guía completa)"
 date: 2026-06-18T00:00:00+00:00
 description: "Filtros, reglas automáticas, desuscripción masiva y las funciones de Gmail que nadie usa pero deberían. Tu bandeja de entrada, bajo control."
 tags: ["Gmail", "Email", "Productividad", "Google", "Organización"]
 categories: ["posts"]
 author: "Tecno Rápido"
+cover:
+    image: "images/posts/header-gmail-organizar.png"
+    alt: "Cómo organizar y limpiar tu Gmail de una vez por todas (guía completa)"
+    relative: false
 ---
 
 Tienes 14.000 correos sin leer y la sola idea de "ponerte al día" te genera ansiedad. No estás solo — es el estado natural de Gmail cuando nunca se configura correctamente desde el principio.
@@ -42,6 +46,9 @@ Los filtros son la función más poderosa de Gmail y la que casi nadie configura
 - Correos de un cliente o jefe específico → que salten directo a una etiqueta destacada
 
 ## Paso 3: Usa etiquetas en vez de carpetas
+
+![Filtros y etiquetas en Gmail](/images/posts/gmail-filtros-etiquetas.png)
+
 
 Gmail no tiene carpetas tradicionales — tiene **etiquetas**, y son más potentes porque un mismo correo puede tener varias al mismo tiempo.
 

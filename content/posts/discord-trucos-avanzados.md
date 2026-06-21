@@ -1,10 +1,14 @@
----
+﻿---
 title: "Discord: 15 trucos y funciones que no sabías que existían"
 date: 2026-06-02
 draft: false
 description: "Funciones ocultas y trucos de Discord que la mayoría desconoce. Desde atajos hasta configuraciones de privacidad importantes."
 categories: ["Apps"]
 tags: ["discord", "trucos", "chat", "gaming", "comunidades"]
+cover:
+    image: "images/posts/header-discord-trucos.png"
+    alt: "Discord: 15 trucos y funciones que no sabías que existían"
+    relative: false
 ---
 
 Discord tiene millones de usuarios pero la mayoría solo rasca la superficie. Estas 15 funciones y trucos te van a cambiar la forma de usarlo.
@@ -12,6 +16,9 @@ Discord tiene millones de usuarios pero la mayoría solo rasca la superficie. Es
 ## Funciones que pocos conocen
 
 ### 1. Modo streamer
+
+![Interfaz de chat de voz y comunidad en Discord](/images/posts/interfaz-chat-voz-comunidad.png)
+
 Si haces streaming, activa el **Modo Streamer** en Configuración → Modo Streamer. Oculta automáticamente tu email, invitaciones y notificaciones sensibles mientras compartes pantalla. Nunca más revelarás información privada por accidente.
 
 ### 2. Cámara lenta en GIFs

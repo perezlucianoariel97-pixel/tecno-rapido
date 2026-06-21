@@ -1,17 +1,24 @@
----
+﻿---
 title: "Realidad virtual en 2026: ¿vale la pena comprar unas gafas VR?"
 date: 2026-06-27T00:00:00+00:00
 description: "Meta Quest 3S, Quest 3 y las alternativas de realidad aumentada: guía honesta sobre qué esperar de la VR en 2026 antes de comprar."
 tags: ["Realidad Virtual", "VR", "Meta Quest", "Gaming", "Gadgets"]
 categories: ["posts"]
 author: "Tecno Rápido"
+cover:
+    image: "images/posts/header-realidad-virtual.png"
+    alt: "Realidad virtual en 2026: ¿vale la pena comprar unas gafas VR?"
+    relative: false
 ---
 
 La realidad virtual lleva más de una década prometiendo ser "el futuro", y cada año hay nuevas razones para preguntarse si finalmente llegó el momento de comprar. En 2026, la respuesta honesta es: depende mucho de qué esperás conseguir con ella.
 
 Esta guía te ayuda a decidir antes de gastar dinero, evitando la decepción más común: comprar algo pensando que sirve para todo, cuando en realidad cada tecnología tiene un uso claro para el que brilla.
 
-## El estado real de la VR en 2026
+## El estado real de la VR
+
+![Persona usando gafas de realidad virtual](/images/posts/persona-usando-gafas-vr.png)
+ en 2026
 
 La realidad virtual ya no es un experimento. El **Meta Quest 3S**, con un precio de referencia de alrededor de 330€, funciona de forma completamente autónoma — sin necesidad de PC ni consola. Te las pones, elegís un juego de la tienda, y listo.
 

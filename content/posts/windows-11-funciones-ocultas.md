@@ -1,15 +1,21 @@
----
+﻿---
 title: "10 funciones ocultas de Windows 11 que deberías activar ahora"
 date: 2026-06-17
 draft: false
 description: "Windows 11 tiene funciones muy útiles desactivadas por defecto o escondidas en menús poco obvios. Estas 10 cambian cómo usas el PC cada día."
 categories: ["Windows"]
 tags: ["windows 11", "funciones ocultas", "trucos", "productividad", "configuración"]
+cover:
+    image: "images/posts/header-windows11-funcionesocultas.png"
+    alt: "10 funciones ocultas de Windows 11 que deberías activar ahora"
+    relative: false
 ---
 
 Windows 11 tiene muchas funciones geniales que vienen desactivadas por defecto o enterradas en menús que nadie visita. Aquí las 10 más útiles que deberías activar hoy.
 
 ## 1. Historial del portapapeles
+
+![Historial del portapapeles en Windows 11](/images/posts/windows11-historial-portapapeles.png)
 
 Windows 11 puede recordar todo lo que has copiado, no solo lo último.
 

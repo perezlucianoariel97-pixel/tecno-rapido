@@ -1,10 +1,14 @@
----
+﻿---
 title: "Cómo elegir un monitor para PC en 2026: guía de compra completa"
 date: 2026-06-22T00:00:00+00:00
 description: "Resolución, panel, tasa de refresco y tamaño: todo lo que necesitas saber para elegir el monitor correcto según tu uso y presupuesto en 2026."
 tags: ["Monitores", "Hardware", "Gaming", "Compras", "PC"]
 categories: ["posts"]
 author: "Tecno Rápido"
+cover:
+    image: "images/posts/header-monitor-guia.png"
+    alt: "Cómo elegir un monitor para PC en 2026: guía de compra completa"
+    relative: false
 ---
 
 Comprar un monitor parece simple hasta que entras a una tienda online y te encuentras con docenas de siglas — IPS, VA, OLED, Hz, ms, FreeSync — sin saber cuáles realmente importan para tu caso.
@@ -20,7 +24,10 @@ Antes de mirar especificaciones, responde esto: ¿para qué vas a usar el monito
 - **Diseño y edición de video/foto:** prioriza precisión de color
 - **Uso mixto:** busca un equilibrio entre todo lo anterior
 
-## Tamaño: ya no conviene menos de 24 pulgadas
+## Tamaño
+
+![Comparativa de tamaños de monitores](/images/posts/monitores-comparativa-tamanos.png)
+: ya no conviene menos de 24 pulgadas
 
 Para cualquier uso, **24 pulgadas es el mínimo recomendado en 2026**. Por debajo de eso, trabajar varias horas se vuelve incómodo y reduce tu productividad real.
 

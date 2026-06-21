@@ -1,15 +1,21 @@
----
+﻿---
 title: "Alternativas a Google Fotos: guarda tus fotos gratis en 2026"
 date: 2026-06-06
 draft: false
 description: "Google Fotos ya no es gratis ilimitado. Te presentamos las mejores alternativas para guardar tus fotos sin pagar (o pagando menos)."
 categories: ["Apps"]
 tags: ["fotos", "nube", "almacenamiento", "google fotos", "privacidad"]
+cover:
+    image: "images/posts/header-alternativas-google-fotos.png"
+    alt: "Alternativas a Google Fotos: guarda tus fotos gratis en 2026"
+    relative: false
 ---
 
 Desde 2021 Google Fotos dejó de ofrecer almacenamiento gratuito ilimitado. Ahora cuenta para los 15 GB que comparte con Gmail y Drive. Si llevas años acumulando fotos, probablemente ya estés llegando al límite. Estas son las mejores alternativas.
 
 ## El problema con Google Fotos
+
+![Galería de fotos en la nube](/images/posts/galeria-fotos-nube.png)
 
 Los 15 GB gratuitos de Google se comparten entre Gmail, Drive y Fotos. Una bandeja de entrada activa y algunas fotos de vacaciones los llenan en poco tiempo. A partir de ahí, necesitas pagar Google One (desde €1.99/mes por 100 GB).
 

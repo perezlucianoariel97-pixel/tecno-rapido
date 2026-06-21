@@ -1,10 +1,14 @@
----
+﻿---
 title: "Cómo configurar tu router WiFi de forma segura (guía completa)"
 date: 2026-06-17
 draft: false
 description: "Tu router mal configurado es una puerta abierta a ataques. Guía paso a paso para asegurar tu WiFi en casa: contraseña, cifrado, red de invitados y más."
 categories: ["Seguridad"]
 tags: ["router", "wifi", "seguridad", "red doméstica", "contraseña wifi"]
+cover:
+    image: "images/posts/header-router-seguro.png"
+    alt: "Cómo configurar tu router WiFi de forma segura (guía completa)"
+    relative: false
 ---
 
 La mayoría de los routers domésticos vienen con configuración de fábrica que es conveniente pero no segura. Con estos ajustes conviertes tu red WiFi en algo que los atacantes difícilmente pueden penetrar.
@@ -19,6 +23,8 @@ La mayoría de los routers domésticos vienen con configuración de fábrica que
 3. Inicia sesión con usuario/contraseña de administración
 
 ## Paso 1: Cambia la contraseña de administración del router
+
+![Panel de configuración del router](/images/posts/router-panel-configuracion.png)
 
 La primera vulnerabilidad es la contraseña de administración del router. La mayoría viene con `admin/admin` o `admin/1234`.
 

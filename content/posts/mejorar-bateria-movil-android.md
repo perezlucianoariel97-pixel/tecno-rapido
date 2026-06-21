@@ -1,10 +1,14 @@
----
+﻿---
 title: "Cómo mejorar la duración de la batería de tu móvil Android"
 date: 2026-06-17
 draft: false
 description: "12 ajustes reales para que tu Android aguante más sin cargar. Sin apps milagrosas ni trucos falsos, solo configuración que funciona."
 categories: ["Android"]
 tags: ["batería", "android", "duración batería", "ahorro energía", "smartphone"]
+cover:
+    image: "images/posts/header-bateria-android.png"
+    alt: "Cómo mejorar la duración de la batería de tu móvil Android"
+    relative: false
 ---
 
 La batería del móvil nunca dura lo suficiente. Antes de comprar un powerbank o cambiar de teléfono, prueba estos ajustes. La mayoría de Android pueden ganar 2-4 horas extra de autonomía solo con configuración.
@@ -22,6 +26,8 @@ Antes de ajustes concretos, entiende qué drena más la batería:
 ## Ajustes de mayor impacto
 
 ### 1. Activa el modo de ahorro de batería
+
+![Configuración de batería en Android](/images/posts/android-configuracion-bateria.png)
 
 Ve a **Configuración → Batería → Ahorro de batería** y actívalo. En muchos Android puedes configurarlo para que se active automáticamente al llegar al 20% o 30%.
 

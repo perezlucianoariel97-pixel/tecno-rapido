@@ -1,10 +1,14 @@
----
+﻿---
 title: "Excel para principiantes: las fórmulas esenciales que todos deberían saber"
 date: 2026-06-19T00:00:00+00:00
 description: "Las fórmulas de Excel más usadas explicadas con ejemplos prácticos: SUMA, SI, BUSCARV, CONTAR.SI y más. Domina lo básico en una sola guía."
 tags: ["Excel", "Microsoft Office", "Productividad", "Fórmulas", "Oficina"]
 categories: ["posts"]
 author: "Tecno Rápido"
+cover:
+    image: "images/posts/header-excel-formulas.png"
+    alt: "Excel para principiantes: las fórmulas esenciales que todos deberían saber"
+    relative: false
 ---
 
 Excel sigue siendo, más de 35 años después de su lanzamiento, la herramienta más usada del mundo para trabajar con números. El problema es que la mayoría de la gente solo usa una fracción mínima de lo que puede hacer — generalmente sumas básicas y poco más.
@@ -12,6 +16,9 @@ Excel sigue siendo, más de 35 años después de su lanzamiento, la herramienta 
 Con un puñado de fórmulas (no necesitas memorizar cientos) puedes automatizar cálculos, organizar datos y ahorrar horas de trabajo manual. Esta guía cubre las que realmente vas a usar el 90% del tiempo.
 
 ## Antes de empezar: cómo funciona una fórmula en Excel
+
+![Barra de fórmulas en Excel](/images/posts/excel-barra-formulas.png)
+
 
 Toda fórmula en Excel empieza con el signo `=`. Por ejemplo, si escribes `=A1+A2` en una celda, Excel suma el contenido de las celdas A1 y A2 y muestra el resultado.
 

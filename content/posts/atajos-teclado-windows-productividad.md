@@ -1,11 +1,17 @@
----
+﻿---
 title: "30 atajos de teclado de Windows que te ahorrarán horas cada semana"
 date: 2026-06-05
 draft: false
 description: "Los atajos de teclado más útiles de Windows que pocos conocen. Desde básicos hasta avanzados, para trabajar el doble de rápido."
 categories: ["Windows"]
 tags: ["atajos teclado", "windows", "productividad", "trucos"]
+cover:
+    image: "images/posts/header-atajos-teclado-windows.png"
+    alt: "30 atajos de teclado de Windows que te ahorrarán horas cada semana"
+    relative: false
 ---
+
+![Teclado con teclas resaltadas para atajos](/images/posts/teclado-teclas-resaltadas.png)
 
 El ratón es cómodo pero lento. Los usuarios avanzados hacen en un segundo lo que a otros les lleva diez. Aquí están los 30 atajos de Windows que más tiempo te van a ahorrar.
 

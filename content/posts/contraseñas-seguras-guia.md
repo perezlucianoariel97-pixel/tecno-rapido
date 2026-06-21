@@ -1,11 +1,17 @@
----
+﻿---
 title: "Cómo crear contraseñas seguras y no olvidarlas nunca"
 date: 2026-06-07
 draft: false
 description: "Guía práctica para crear contraseñas imposibles de hackear y gestionarlas sin volverte loco. Con y sin gestor de contraseñas."
 categories: ["Seguridad"]
 tags: ["contraseñas", "seguridad", "privacidad", "cuentas"]
+cover:
+    image: "images/posts/header-contrasenas-seguras.png"
+    alt: "Cómo crear contraseñas seguras y no olvidarlas nunca"
+    relative: false
 ---
+
+![Medidor de fortaleza de contraseña](/images/posts/medidor-fortaleza-contrasena.png)
 
 "password123", "123456" y el nombre de tu mascota son las contraseñas más hackeadas del mundo. Si usas algo así, tus cuentas están en riesgo ahora mismo. Aquí te enseñamos a hacerlo bien.
 

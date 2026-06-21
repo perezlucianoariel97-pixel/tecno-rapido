@@ -1,15 +1,21 @@
----
+﻿---
 title: "Cómo pasar fotos del móvil al PC: todas las formas explicadas"
 date: 2026-06-17
 draft: false
 description: "Guía completa para transferir fotos de Android o iPhone al PC. Cable USB, WiFi, nube y Bluetooth. Cuál es más rápida y cuándo usar cada una."
 categories: ["Android"]
 tags: ["fotos", "transferir fotos", "android", "pc", "cable usb", "nube"]
+cover:
+    image: "images/posts/header-transferir-fotos-movil-pc.png"
+    alt: "Cómo pasar fotos del móvil al PC: todas las formas explicadas"
+    relative: false
 ---
 
 Tienes cientos de fotos en el móvil y quieres pasarlas al PC para liberizar espacio, editarlas o guardarlas. Hay varias formas de hacerlo y cada una tiene sus ventajas. Aquí están todas, explicadas de forma clara.
 
 ## Método 1: Cable USB (el más rápido)
+
+![Explorador de archivos mostrando fotos del móvil](/images/posts/explorador-fotos-movil.png)
 
 Conectar el móvil al PC con cable USB es la forma más rápida para transferir muchas fotos a la vez.
 

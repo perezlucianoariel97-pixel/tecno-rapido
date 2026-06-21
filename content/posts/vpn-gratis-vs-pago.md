@@ -1,15 +1,21 @@
----
+﻿---
 title: "VPN gratis vs VPN de pago: ¿Cuál conviene realmente?"
 date: 2026-06-14
 draft: false
 description: "Analizamos las diferencias reales entre VPNs gratuitas y de pago. Spoiler: las gratis tienen un precio oculto."
 categories: ["Seguridad"]
 tags: ["vpn", "privacidad", "seguridad", "internet"]
+cover:
+    image: "images/posts/header-vpn-gratis-vs-pago.png"
+    alt: "VPN gratis vs VPN de pago: ¿Cuál conviene realmente?"
+    relative: false
 ---
 
 Todos hemos visto anuncios de VPNs prometiendo "privacidad total gratis". Pero hay algo que esos anuncios no te dicen. En este artículo te explicamos exactamente qué diferencia a una VPN gratuita de una de pago, y cuándo vale la pena gastar dinero.
 
 ## ¿Qué hace una VPN exactamente?
+
+![Diagrama de conexión VPN](/images/posts/diagrama-conexion-vpn.png)
 
 Una VPN (Red Privada Virtual) cifra tu conexión a internet y oculta tu dirección IP real. Esto sirve para:
 

@@ -1,15 +1,21 @@
----
+﻿---
 title: "El mejor antivirus gratuito para Windows en 2026"
 date: 2026-06-09
 draft: false
 description: "¿Necesitas antivirus en Windows 11? Analizamos si Windows Defender es suficiente y cuáles son las mejores opciones gratuitas."
 categories: ["Seguridad"]
 tags: ["antivirus", "windows", "seguridad", "malware"]
+cover:
+    image: "images/posts/header-antivirus-gratis-windows.png"
+    alt: "El mejor antivirus gratuito para Windows en 2026"
+    relative: false
 ---
 
 La pregunta que todos se hacen: ¿necesito instalar un antivirus en Windows o con el que viene es suficiente? La respuesta en 2026 es más simple de lo que crees.
 
 ## Windows Defender: el antivirus que ya tienes
+
+![Panel de seguridad de Windows Defender](/images/posts/panel-seguridad-windows.png)
 
 Windows 11 incluye **Microsoft Defender Antivirus**, y en 2026 ya no es el producto mediocre de hace una década. En los últimos benchmarks independientes de AV-TEST y AV-Comparatives obtiene puntuaciones del 99-100% de detección.
 

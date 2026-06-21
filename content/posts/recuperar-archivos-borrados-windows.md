@@ -1,15 +1,21 @@
----
+﻿---
 title: "Cómo recuperar archivos borrados en Windows (antes de que sea tarde)"
 date: 2026-06-17
 draft: false
 description: "Guía paso a paso para recuperar archivos eliminados en Windows. Desde la papelera hasta herramientas gratuitas de recuperación profunda."
 categories: ["Windows"]
 tags: ["recuperar archivos", "windows", "papelera", "datos perdidos"]
+cover:
+    image: "images/posts/header-recuperar-archivos-windows.png"
+    alt: "Cómo recuperar archivos borrados en Windows (antes de que sea tarde)"
+    relative: false
 ---
 
 Borraste algo importante por accidente. No entres en pánico — en la mayoría de los casos los archivos se pueden recuperar. La clave es actuar rápido y no seguir usando el disco hasta recuperarlos.
 
 ## Por qué se pueden recuperar archivos borrados
+
+![Software de recuperación de archivos en acción](/images/posts/software-recuperacion-archivos.png)
 
 Cuando eliminas un archivo, Windows no borra realmente los datos del disco. Solo marca ese espacio como "disponible". Los datos siguen ahí hasta que Windows los sobreescribe con información nueva. Por eso el tiempo es crítico: cuanto más uses el PC después de borrar, más probable que los datos se sobreescriban para siempre.
 

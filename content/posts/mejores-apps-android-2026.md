@@ -1,11 +1,17 @@
----
+﻿---
 title: "Las 10 mejores apps para Android en 2026 que debes tener"
 date: 2026-06-15
 draft: false
 description: "Descubre las aplicaciones Android más útiles de 2026. Productividad, seguridad y entretenimiento en una sola lista."
 categories: ["Android"]
 tags: ["android", "apps", "smartphone", "productividad"]
+cover:
+    image: "images/posts/header-apps-android.png"
+    alt: "Las 10 mejores apps para Android en 2026 que debes tener"
+    relative: false
 ---
+
+![Pantalla de inicio de Android con apps](/images/posts/pantalla-inicio-android-apps.png)
 
 El mercado de apps Android no para de crecer. En 2026 hay miles de opciones, pero estas 10 destacan por encima de todas por su utilidad real en el día a día.
 

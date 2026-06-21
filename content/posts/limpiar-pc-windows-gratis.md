@@ -1,15 +1,21 @@
----
+﻿---
 title: "Cómo limpiar tu PC con Windows sin instalar nada (guía completa)"
 date: 2026-06-13
 draft: false
 description: "Limpia tu PC con Windows usando solo herramientas del sistema. Sin CCleaner ni programas de terceros. Paso a paso."
 categories: ["Windows"]
 tags: ["windows", "optimización", "mantenimiento", "PC lenta"]
+cover:
+    image: "images/posts/header-limpiar-pc-windows.png"
+    alt: "Cómo limpiar tu PC con Windows sin instalar nada (guía completa)"
+    relative: false
 ---
 
 El 90% de los tutoriales sobre limpiar el PC te piden instalar CCleaner u otro programa de terceros. La realidad es que Windows ya tiene todas las herramientas necesarias. Aquí te mostramos cómo hacerlo sin instalar nada extra.
 
 ## Por qué NO usar CCleaner
+
+![Liberador de espacio en disco de Windows](/images/posts/liberador-espacio-disco.png)
 
 CCleaner fue comprado en 2017 y desde entonces ha tenido varios escándalos de seguridad, incluyendo malware distribuido en sus propias actualizaciones. Windows 10 y 11 tienen herramientas nativas que hacen lo mismo de forma segura.
 

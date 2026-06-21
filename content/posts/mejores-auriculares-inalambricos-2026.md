@@ -1,15 +1,21 @@
----
+﻿---
 title: "Los mejores auriculares inalámbricos calidad-precio en 2026"
 date: 2026-06-17
 draft: false
 description: "Guía de compra de auriculares inalámbricos en 2026. Los mejores por precio: menos de 50€, 50-150€ y más de 150€. Cancelación de ruido y true wireless."
 categories: ["Hardware"]
 tags: ["auriculares", "bluetooth", "cancelación de ruido", "true wireless", "guía compra"]
+cover:
+    image: "images/posts/header-auriculares-inalambricos.png"
+    alt: "Los mejores auriculares inalámbricos calidad-precio en 2026"
+    relative: false
 ---
 
 El mercado de auriculares inalámbricos explotó en los últimos años. Hoy hay buenas opciones desde 30€ hasta 400€. Esta guía te ayuda a elegir sin pagar de más por características que no necesitas.
 
 ## Qué tener en cuenta antes de comprar
+
+![Tipos de auriculares comparativa](/images/posts/tipos-auriculares-comparativa.png)
 
 **Tipo de auricular:**
 - **In-ear (intraurales):** se insertan en el oído. Compactos, buenos para deporte y viaje

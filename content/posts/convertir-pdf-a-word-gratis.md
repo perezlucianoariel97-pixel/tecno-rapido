@@ -1,15 +1,21 @@
----
+﻿---
 title: "Cómo convertir PDF a Word gratis (sin perder el formato)"
 date: 2026-06-17
 draft: false
 description: "Las mejores formas de convertir un PDF a Word gratis en 2026, sin instalar nada o con herramientas gratuitas. Incluye método offline para documentos privados."
 categories: ["Software"]
 tags: ["pdf", "word", "convertir", "gratis", "documentos", "office"]
+cover:
+    image: "images/posts/header-pdf-a-word.png"
+    alt: "Cómo convertir PDF a Word gratis (sin perder el formato)"
+    relative: false
 ---
 
 Recibiste un PDF que necesitas editar, pero no puedes modificarlo directamente. Convertirlo a Word es la solución. Aquí están las mejores formas de hacerlo gratis en 2026, ordenadas de más a menos sencilla.
 
 ## Método 1: Microsoft Word directamente (si tienes Office)
+
+![Diálogo de conversión de PDF a Word](/images/posts/word-conversion-pdf-dialogo.png)
 
 Word puede abrir archivos PDF y convertirlos automáticamente desde la versión 2013 en adelante.
 

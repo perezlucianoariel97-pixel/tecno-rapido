@@ -1,15 +1,21 @@
----
+﻿---
 title: "Qué es el phishing y cómo evitar que te roben las contraseñas"
 date: 2026-06-17
 draft: false
 description: "El phishing es el método de estafa online más común. Te explicamos cómo funciona, cómo reconocerlo y qué hacer si caíste en uno."
 categories: ["Seguridad"]
 tags: ["phishing", "estafas online", "seguridad", "contraseñas", "privacidad"]
+cover:
+    image: "images/posts/header-phishing-evitar.png"
+    alt: "Qué es el phishing y cómo evitar que te roben las contraseñas"
+    relative: false
 ---
 
 Cada día se envían millones de correos, mensajes y SMS diseñados para robarte contraseñas, datos bancarios o acceso a tus cuentas. Se llama phishing y es el ciberataque más común del mundo. La buena noticia: con un poco de conocimiento es fácil evitarlo.
 
 ## ¿Qué es exactamente el phishing?
+
+![Email de alerta de phishing](/images/posts/email-alerta-phishing.png)
 
 El phishing es cuando alguien se hace pasar por una empresa o persona de confianza para engañarte y que entregues información sensible voluntariamente.
 

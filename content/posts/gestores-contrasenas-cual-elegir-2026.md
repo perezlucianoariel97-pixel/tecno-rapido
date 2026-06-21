@@ -1,10 +1,14 @@
----
+﻿---
 title: "Gestores de contraseñas: por qué necesitas uno y cuál elegir en 2026"
 date: 2026-06-23T00:00:00+00:00
 description: "Comparativa de los mejores gestores de contraseñas gratuitos y de pago en 2026: Bitwarden, 1Password, NordPass y más. Precios reales y para quién es cada uno."
 tags: ["Contraseñas", "Seguridad", "Bitwarden", "1Password", "Privacidad"]
 categories: ["posts"]
 author: "Tecno Rápido"
+cover:
+    image: "images/posts/header-gestores-contrasenas.png"
+    alt: "Gestores de contraseñas: por qué necesitas uno y cuál elegir en 2026"
+    relative: false
 ---
 
 Si reutilizas la misma contraseña en varios sitios, o usas variaciones de tu fecha de nacimiento, no estás solo — pero estás en riesgo. Según informes recientes de seguridad, más de 15.000 millones de credenciales circulan actualmente en la dark web, producto de años de filtraciones acumuladas.
@@ -17,7 +21,10 @@ El problema no es de memoria — es matemático. Si usas la misma contraseña en
 
 Las contraseñas generadas por un gestor son aleatorias, largas, y distintas en cada sitio — así que una filtración aislada no compromete el resto de tus cuentas.
 
-## Qué hace exactamente un gestor de contraseñas
+## Qué hace exactamente
+
+![Interfaz de un gestor de contraseñas](/images/posts/gestor-contrasenas-interfaz.png)
+ un gestor de contraseñas
 
 - Genera contraseñas largas y aleatorias que serían imposibles de memorizar
 - Las guarda cifradas (ni siquiera la empresa que ofrece el servicio puede leerlas)

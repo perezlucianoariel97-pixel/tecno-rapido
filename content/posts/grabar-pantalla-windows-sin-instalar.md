@@ -1,15 +1,21 @@
----
+﻿---
 title: "Cómo grabar la pantalla en Windows sin instalar nada"
 date: 2026-06-17
 draft: false
 description: "Windows tiene herramientas nativas para grabar la pantalla gratis. Te mostramos cómo usar la Xbox Game Bar, Snipping Tool y PowerPoint para grabar sin instalar nada."
 categories: ["Windows"]
 tags: ["grabar pantalla", "windows", "xbox game bar", "captura de pantalla", "tutorial"]
+cover:
+    image: "images/posts/header-grabar-pantalla-windows.png"
+    alt: "Cómo grabar la pantalla en Windows sin instalar nada"
+    relative: false
 ---
 
 No necesitas instalar OBS ni ningún programa de terceros para grabar tu pantalla en Windows. El sistema ya incluye varias herramientas nativas que funcionan perfectamente para la mayoría de los casos.
 
 ## Método 1: Xbox Game Bar (el más rápido)
+
+![Overlay de grabación de pantalla en Windows](/images/posts/overlay-grabacion-pantalla.png)
 
 La Xbox Game Bar viene preinstalada en Windows 10 y 11. Aunque tiene "Xbox" en el nombre, funciona para grabar cualquier ventana, no solo juegos.
 

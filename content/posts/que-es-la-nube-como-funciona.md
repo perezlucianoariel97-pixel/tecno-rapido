@@ -1,10 +1,14 @@
----
+﻿---
 title: "¿Qué es la nube y cómo funciona? Explicado sin tecnicismos"
 date: 2026-06-17
 draft: false
 description: "Explicación sencilla de qué es la nube, cómo funciona, qué servicios existen y cuándo tiene sentido usarla o no."
 categories: ["Tecnología"]
 tags: ["nube", "cloud", "almacenamiento", "google drive", "onedrive", "icloud"]
+cover:
+    image: "images/posts/header-que-es-la-nube.png"
+    alt: "¿Qué es la nube y cómo funciona? Explicado sin tecnicismos"
+    relative: false
 ---
 
 "Está en la nube" se dice constantemente pero pocas personas entienden realmente qué significa. No hay ningún misterio — aquí te lo explicamos de forma sencilla y práctica.
@@ -18,6 +22,8 @@ Cuando guardas una foto en Google Fotos, esa foto no flota en el aire — está 
 La "magia" es que puedes acceder a esa foto desde cualquier dispositivo con internet, en cualquier momento, sin necesitar el dispositivo donde la tomaste.
 
 ## Cómo funciona técnicamente (sin complicarse)
+
+![Diagrama de funcionamiento de la nube](/images/posts/diagrama-nube-funcionamiento.png)
 
 1. Tu dispositivo envía los datos a internet
 2. Los datos viajan hasta los servidores de la empresa (Google, Microsoft, Apple, etc.)

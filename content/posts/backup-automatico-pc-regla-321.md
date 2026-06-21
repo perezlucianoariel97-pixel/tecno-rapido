@@ -1,17 +1,24 @@
----
+﻿---
 title: "Cómo hacer backup automático de tu PC: la estrategia 3-2-1 explicada"
 date: 2026-06-20T00:00:00+00:00
 description: "La estrategia de backup 3-2-1 que usan los profesionales de IT, explicada para usuarios normales. Herramientas gratuitas y pasos concretos para no perder tus archivos nunca."
 tags: ["Backup", "Copia de seguridad", "Windows", "Almacenamiento", "Seguridad"]
 categories: ["posts"]
 author: "Tecno Rápido"
+cover:
+    image: "images/posts/header-backup-321.png"
+    alt: "Cómo hacer backup automático de tu PC: la estrategia 3-2-1 explicada"
+    relative: false
 ---
 
 La mayoría de la gente solo piensa en hacer backup después de perder algo importante — y para entonces ya es tarde. Un disco duro que falla, un ransomware que cifra tus archivos, o simplemente borrar algo por error son situaciones que ocurren todos los días.
 
 La buena noticia es que protegerte toma menos de una hora de configuración inicial y después funciona solo. Esta guía explica la estrategia que usan los profesionales de informática — adaptada para que cualquiera pueda aplicarla en casa.
 
-## La regla 3-2-1: el estándar de la industria
+## La regla 3-2-1
+
+![Diagrama de la regla de backup 3-2-1](/images/posts/diagrama-backup-321.png)
+: el estándar de la industria
 
 La estrategia de backup más recomendada en el mundo de la informática se resume en tres números:
 

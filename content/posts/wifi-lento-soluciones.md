@@ -1,15 +1,21 @@
----
+﻿---
 title: "WiFi lento: 8 soluciones que realmente funcionan"
 date: 2026-06-10
 draft: false
 description: "¿El WiFi va lento? Antes de llamar a tu operador prueba estas 8 soluciones que resuelven el 90% de los problemas de velocidad."
 categories: ["Internet"]
 tags: ["wifi", "internet lento", "router", "red"]
+cover:
+    image: "images/posts/header-wifi-lento-soluciones.png"
+    alt: "WiFi lento: 8 soluciones que realmente funcionan"
+    relative: false
 ---
 
 El WiFi lento es uno de los problemas tecnológicos más frustrantes. Antes de llamar a tu operador o comprar un router nuevo, prueba estas soluciones. El 90% de los casos se resuelven con alguna de ellas.
 
 ## 1. Reinicia el router (de verdad)
+
+![Router y cable de red para reiniciar](/images/posts/router-reiniciar-cable.png)
 
 No basta con apagarlo y encenderlo desde el botón. Haz esto:
 

@@ -1,17 +1,24 @@
----
+﻿---
 title: "Cómo migrar de un PC viejo a uno nuevo sin perder nada (guía paso a paso)"
 date: 2026-06-25T00:00:00+00:00
 description: "Transfiere archivos, contraseñas, configuraciones y programas de tu PC viejo al nuevo sin estrés. Guía completa con herramientas gratuitas de Windows."
 tags: ["Windows", "Migración", "PC nuevo", "Backup", "Configuración"]
 categories: ["posts"]
 author: "Tecno Rápido"
+cover:
+    image: "images/posts/header-migrar-pc.png"
+    alt: "Cómo migrar de un PC viejo a uno nuevo sin perder nada (guía paso a paso)"
+    relative: false
 ---
 
 Comprar un PC nuevo debería ser emocionante, pero para muchos se convierte en semanas de procrastinación por el miedo a perder archivos, tener que reinstalar todo manualmente, o simplemente no saber por dónde empezar.
 
 La buena noticia: con las herramientas correctas, migrar a un PC nuevo toma un par de horas, no días, y no necesitas perder absolutamente nada en el proceso.
 
-## Antes de empezar: haz un inventario rápido
+## Antes de empezar
+
+![Diagrama de transferencia de archivos entre PCs](/images/posts/diagrama-transferencia-archivos.png)
+: haz un inventario rápido
 
 Antes de tocar nada, anota mentalmente (o en una nota) qué necesitas migrar:
 

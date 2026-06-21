@@ -1,11 +1,17 @@
----
+﻿---
 title: "Los mejores navegadores web en 2026: Chrome, Firefox, Brave o Edge"
 date: 2026-06-17
 draft: false
 description: "Comparativa honesta de los principales navegadores en 2026. Velocidad, privacidad, consumo de RAM y cuál deberías usar según tu perfil."
 categories: ["Navegadores"]
 tags: ["navegadores", "chrome", "firefox", "brave", "edge", "privacidad"]
+cover:
+    image: "images/posts/header-navegadores-web.png"
+    alt: "Los mejores navegadores web en 2026: Chrome, Firefox, Brave o Edge"
+    relative: false
 ---
+
+![Comparativa de interfaces de navegadores web](/images/posts/comparativa-navegadores-interfaz.png)
 
 El navegador es el programa que más usas en tu PC y probablemente nunca lo hayas elegido conscientemente. En 2026 hay opciones muy buenas, cada una con fortalezas distintas. Te ayudamos a elegir.
 

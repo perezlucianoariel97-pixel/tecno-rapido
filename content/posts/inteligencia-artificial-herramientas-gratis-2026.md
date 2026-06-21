@@ -1,11 +1,17 @@
----
+﻿---
 title: "Las mejores herramientas de inteligencia artificial gratuitas en 2026"
 date: 2026-06-17
 draft: false
 description: "Las herramientas de IA gratuitas más útiles de 2026: para escribir, crear imágenes, editar vídeo, programar y ser más productivo. Sin pagar nada."
 categories: ["Inteligencia Artificial"]
 tags: ["inteligencia artificial", "ia gratis", "chatgpt", "productividad", "herramientas ia"]
+cover:
+    image: "images/posts/header-ia-herramientas-gratis.png"
+    alt: "Las mejores herramientas de inteligencia artificial gratuitas en 2026"
+    relative: false
 ---
+
+![Categorías de herramientas de inteligencia artificial](/images/posts/categorias-herramientas-ia.png)
 
 La inteligencia artificial dejó de ser ciencia ficción y se convirtió en una herramienta cotidiana. En 2026 hay docenas de herramientas gratuitas que pueden ahorrarte horas de trabajo cada semana.
 

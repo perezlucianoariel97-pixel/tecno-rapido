@@ -1,11 +1,17 @@
----
+﻿---
 title: "Android vs iPhone en 2026: ¿Cuál deberías comprar?"
 date: 2026-06-11
 draft: false
 description: "Comparativa honesta entre Android e iPhone en 2026. Te decimos cuál es mejor según tu perfil y presupuesto."
 categories: ["Smartphones"]
 tags: ["android", "iphone", "comparativa", "smartphone"]
+cover:
+    image: "images/posts/header-android-vs-iphone.png"
+    alt: "Android vs iPhone en 2026: ¿Cuál deberías comprar?"
+    relative: false
 ---
+
+![Comparativa de smartphones Android e iPhone](/images/posts/comparativa-smartphones.png)
 
 La pregunta de millones: ¿Android o iPhone? En 2026 ambas plataformas están más maduras que nunca, pero siguen siendo muy diferentes. Te ayudamos a decidir según lo que realmente necesitas.
 

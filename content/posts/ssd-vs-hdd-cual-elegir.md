@@ -1,15 +1,21 @@
----
+﻿---
 title: "SSD vs HDD: ¿Cuál elegir y por qué los SSD cambian todo?"
 date: 2026-06-08
 draft: false
 description: "Explicamos de forma sencilla la diferencia entre SSD y HDD, cuándo usar cada uno y si vale la pena el cambio."
 categories: ["Hardware"]
 tags: ["ssd", "hdd", "almacenamiento", "hardware", "PC"]
+cover:
+    image: "images/posts/header-ssd-vs-hdd.png"
+    alt: "SSD vs HDD: ¿Cuál elegir y por qué los SSD cambian todo?"
+    relative: false
 ---
 
 Si tu PC tarda 5 minutos en arrancar, probablemente tenga un disco duro mecánico (HDD). Cambiar a un SSD es la mejora con mejor relación coste-impacto que puedes hacer en cualquier PC. Te explicamos todo.
 
 ## ¿Qué diferencia hay exactamente?
+
+![Comparativa física de SSD y HDD](/images/posts/ssd-hdd-comparativa-fisica.png)
 
 ### HDD (Disco Duro Mecánico)
 Un HDD tiene partes móviles: un plato que gira y un cabezal que lee/escribe datos. Es como un tocadiscos microscópico.

@@ -1,10 +1,14 @@
----
+﻿---
 title: "Domótica básica: cómo automatizar tu casa en 2026 sin gastar una fortuna"
 date: 2026-06-26T00:00:00+00:00
 description: "Guía práctica para empezar con la domótica: qué dispositivos comprar primero, qué es el estándar Matter y cómo evitar los errores más comunes."
 tags: ["Domótica", "Casa inteligente", "Matter", "Google Home", "Alexa"]
 categories: ["posts"]
 author: "Tecno Rápido"
+cover:
+    image: "images/posts/header-domotica-basica.png"
+    alt: "Domótica básica: cómo automatizar tu casa en 2026 sin gastar una fortuna"
+    relative: false
 ---
 
 La domótica suena a "casa del futuro" cara y complicada, pero en 2026 empezar es tan simple como cambiar una bombilla y conectar un enchufe a tu Wi-Fi. No necesitas reformar tu instalación eléctrica ni contratar a un técnico — solo necesitas saber por dónde empezar.
@@ -39,7 +43,10 @@ Aunque Matter mejora la compatibilidad, sigue siendo útil elegir un asistente p
 
 No hay una opción "incorrecta" — la mejor es la que se alinea con los dispositivos que ya usás (Android vs iPhone, por ejemplo).
 
-## Paso 2: el kit básico de inicio (menos de 70€)
+## Paso 2
+
+![Dispositivos básicos de domótica](/images/posts/dispositivos-domotica-basicos.png)
+: el kit básico de inicio (menos de 70€)
 
 No necesitas comprar veinte dispositivos. Con 3-5 productos básicos ya obtenés automatizaciones útiles del día a día:
 

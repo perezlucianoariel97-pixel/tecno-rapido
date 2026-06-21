@@ -1,10 +1,14 @@
----
+﻿---
 title: "20 trucos de Google Chrome que casi nadie conoce"
 date: 2026-06-17
 draft: false
 description: "Los mejores trucos ocultos de Chrome para navegar más rápido, ahorrar RAM y ser más productivo. Funciones que llevan años en Chrome sin que las uses."
 categories: ["Navegadores"]
 tags: ["chrome", "trucos", "navegador", "productividad", "atajos"]
+cover:
+    image: "images/posts/header-chrome-trucos.png"
+    alt: "20 trucos de Google Chrome que casi nadie conoce"
+    relative: false
 ---
 
 Chrome tiene decenas de funciones escondidas que la mayoría nunca descubre. Estos 20 trucos cambian cómo navegas.
@@ -12,6 +16,9 @@ Chrome tiene decenas de funciones escondidas que la mayoría nunca descubre. Est
 ## Gestión de pestañas
 
 ### 1. Buscar entre tus pestañas abiertas
+
+![Buscador de pestañas en Chrome](/images/posts/chrome-buscador-pestanas.png)
+
 Si tienes muchas pestañas, en vez de revisarlas una a una presiona `Ctrl + Shift + A` para abrir el buscador de pestañas. Escribe cualquier palabra del título y Chrome la encuentra al instante.
 
 ### 2. Mover pestañas entre ventanas

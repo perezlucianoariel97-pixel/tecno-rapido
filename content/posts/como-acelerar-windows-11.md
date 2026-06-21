@@ -1,17 +1,22 @@
----
+﻿---
 title: "Cómo acelerar Windows 11 en 5 pasos fáciles"
 date: 2026-06-16
 draft: false
 description: "Tu PC con Windows 11 va lento? Sigue estos 5 pasos simples para acelerarlo sin instalar nada."
 categories: ["Windows"]
 tags: ["windows 11", "optimización", "rendimiento", "PC lenta"]
+
 cover:
-  alt: "Acelerar Windows 11"
+    image: "images/posts/header-acelerar-windows11.png"
+    alt: "Cómo acelerar Windows 11 en 5 pasos fáciles"
+    relative: false
 ---
 
 ¿Tu PC con Windows 11 va más lento de lo normal? No necesitas comprar hardware nuevo ni instalar programas raros. Con estos 5 pasos puedes notar la diferencia en minutos.
 
 ## 1. Desactiva los programas de inicio
+
+![Administrador de tareas mostrando programas de inicio](/images/posts/administrador-tareas-inicio.png)
 
 Muchos programas se inician solos cuando enciendes el PC y consumen recursos sin que te des cuenta.
 

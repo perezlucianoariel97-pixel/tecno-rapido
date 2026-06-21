@@ -1,11 +1,17 @@
----
+﻿---
 title: "5 proyectos fáciles con Raspberry Pi para principiantes"
 date: 2026-06-03
 draft: false
 description: "Ideas prácticas y asequibles para tu primera Raspberry Pi. Desde servidor de películas hasta bloqueador de anuncios para toda tu red."
 categories: ["Hardware"]
 tags: ["raspberry pi", "proyectos", "hardware", "DIY", "servidor"]
+cover:
+    image: "images/posts/header-raspberry-pi-proyectos.png"
+    alt: "5 proyectos fáciles con Raspberry Pi para principiantes"
+    relative: false
 ---
+
+![Placa física de Raspberry Pi](/images/posts/raspberry-pi-fisica.png)
 
 Una Raspberry Pi es un ordenador del tamaño de una tarjeta de crédito que cuesta entre 35 y 80 euros. Con ella puedes hacer cosas que normalmente requerirían equipos mucho más caros. Aquí los 5 proyectos más populares para empezar.
 

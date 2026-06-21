@@ -1,15 +1,21 @@
----
+﻿---
 title: "¿Qué es ChatGPT y cómo usarlo para ser más productivo?"
 date: 2026-06-12
 draft: false
 description: "Guía completa para principiantes sobre ChatGPT: qué es, cómo funciona y 10 formas prácticas de usarlo en tu día a día."
 categories: ["Inteligencia Artificial"]
 tags: ["chatgpt", "ia", "inteligencia artificial", "productividad"]
+cover:
+    image: "images/posts/header-que-es-chatgpt.png"
+    alt: "¿Qué es ChatGPT y cómo usarlo para ser más productivo?"
+    relative: false
 ---
 
 ChatGPT cambió internet en 2022 y desde entonces no ha parado de evolucionar. Si todavía no lo usas o no le sacas todo el partido, esta guía es para ti.
 
 ## ¿Qué es ChatGPT exactamente?
+
+![Interfaz de chat con IA](/images/posts/interfaz-chat-ia.png)
 
 ChatGPT es un chatbot de inteligencia artificial desarrollado por OpenAI. Puedes hablar con él en español (o cualquier idioma) y responde preguntas, escribe textos, resume documentos, programa código y mucho más.
 
