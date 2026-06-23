@@ -1,5 +1,5 @@
 /* ============================================
-   TECNO RÁPIDO — Basado en paleta ByteForge
+   BYTE FORGE TIP — Paleta ByteForge
    Palette: #0A0A0A | #C9A84C | #F5F5F0 | #1A1A1A
 ============================================ */
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700;1,900&family=Inter:wght@300;400;500;600&display=swap');
@@ -54,11 +54,7 @@ body {
   background: none;
 }
 .logo a::before {
-  content: '';
-  display: inline-block;
-  width: 28px;
-  height: 28px;
-  background: url("data:image/svg+xml,%3Csvg viewBox='0 0 240 240' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='240' height='240' rx='28' fill='%230D0D0D'/%3E%3Cpolygon points='130,40 70,130 115,130 90,200 170,105 125,105 155,40' fill='%23C9A84C'/%3E%3C/svg%3E") center/contain no-repeat;
+  display: none;
 }
 .logo span {
   color: var(--gold);

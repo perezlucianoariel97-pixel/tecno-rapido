@@ -1,11 +1,13 @@
 ---
-title: "Acerca de Tecno Rápido"
-date: 2026-06-16
+title: "Acerca de Byte Forge Tip"
+date: 2026-06-21
 draft: false
 ---
 
-Tecno Rápido es un blog en español dedicado a explicar tecnología de forma clara y sencilla.
+**Byte Forge Tip** es un blog en español dedicado a explicar tecnología de forma clara y sin tecnicismos innecesarios.
 
-Aquí encontrarás guías paso a paso, comparativas y consejos prácticos sobre Android, Windows, apps y más.
+Aquí encontrarás guías paso a paso, comparativas y consejos prácticos sobre Windows, Android, seguridad, hardware, inteligencia artificial y mucho más.
 
-**Contacto:** tecnorapido@gmail.com
+Nuestro objetivo es simple: que cualquier persona, sin importar su nivel técnico, pueda sacarle más partido a la tecnología que ya tiene.
+
+**Contacto:** info@byteforgetip.com

@@ -1,7 +1,7 @@
-baseURL = "https://preeminent-halva-acf759.netlify.app/"
+baseURL = "https://byteforgetip.com/"
 languageCode = "es"
 lang = "es"
-title = "Tecno Rápido"
+title = "Byte Forge Tip"
 theme = "PaperMod"
 paginate = 10
 enableRobotsTXT = true
@@ -9,7 +9,7 @@ buildDrafts = false
 buildFuture = true
 hasCJKLanguage = false
 enableEmoji = true
-copyright = "© 2026 Tecno Rápido"
+copyright = "© 2026 Byte Forge Tip"
 
 [sitemap]
   changefreq = "weekly"
@@ -21,7 +21,7 @@ copyright = "© 2026 Tecno Rápido"
 
 [params]
   env = "production"
-  title = "Tecno Rápido"
+  title = "Byte Forge Tip"
   description = "Guías, consejos y trucos de tecnología en español. Windows, Android, seguridad y software explicados de forma clara y práctica."
   keywords = ["tecnología", "windows", "android", "seguridad informática", "software gratis", "consejos tech", "optimización PC"]
   author = "Tecno Rápido"
@@ -44,11 +44,13 @@ copyright = "© 2026 Tecno Rápido"
   showtoc = true
 
   [params.homeInfoParams]
-    Title = "Haz que tu tecnología trabaje para ti."
+    Title = "Forge your tech knowledge."
     Content = "Guías prácticas, trucos y herramientas de tecnología en español. Sin jerga. Sin relleno. Solo lo que funciona."
 
   [params.label]
-    text = "Tecno Rápido"
+    text = "Byte Forge Tip"
+    icon = "/images/logo-bft.png"
+    iconHeight = 35
 
   [[params.socialIcons]]
     name = "rss"
