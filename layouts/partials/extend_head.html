@@ -10,6 +10,9 @@
 {{ $image    := printf "%simages/og-default.png" $baseURL }}
 {{ if .Params.cover.image }}{{ $image = .Params.cover.image | absURL }}{{ end }}
 
+{{/* ── Google Search Console verification ── */}}
+<meta name="google-site-verification" content="oAXODEzHJ4NwTitXM0F7jgGCSCdeBwHuhp3eFLN1J1E" />
+
 {{/* ── Canonical ── */}}
 <link rel="canonical" href="{{ $url }}" />
 
